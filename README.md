@@ -13,3 +13,5 @@ Diccionarios: Para mapear usuarios y publicaciones.
 Conjuntos: Para listas de amigos sin duplicados.
 Listas y tuplas: Para feeds y comentarios.
 Ciclos y control: Menús y validaciones.
+
+Funciona :) 
