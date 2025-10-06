@@ -18,5 +18,3 @@ Diccionarios: Para mapear usuarios y publicaciones.
 Conjuntos: Para listas de amigos sin duplicados.
 Listas y tuplas: Para feeds y comentarios.
 Ciclos y control: Menús y validaciones.
-
-En este repositorio se podrán encontrar dos elementos fundamentales para la funcionalidad de la simulación planteada: la base de datos empleada y el código en Python.
