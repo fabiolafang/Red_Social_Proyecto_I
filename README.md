@@ -18,3 +18,6 @@ Diccionarios: Para mapear usuarios y publicaciones.
 Conjuntos: Para listas de amigos sin duplicados.
 Listas y tuplas: Para feeds y comentarios.
 Ciclos y control: Menús y validaciones.
+
+### Recursos: 
+Base de datos original, base de datos personalizada y código en pyhton (en _jupyter notebook_)
